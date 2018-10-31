@@ -1,0 +1,2 @@
+# python
+print(eval(input()))

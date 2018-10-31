@@ -1,4 +1,0 @@
-This is textend of file1: abcd
-2: abcd
-3: line end
-4: end

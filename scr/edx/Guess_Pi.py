@@ -1,7 +1,7 @@
 user_name = input("Enter your name: \n")
 print("Hi " + user_name)
 seed = len(user_name)
-pi_file = open('scr/pi.txt', 'r')
+pi_file = open('data/pi.txt', 'r')
 guess = 0
 correct = 0
 wrong = 0

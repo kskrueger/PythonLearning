@@ -36,3 +36,5 @@ def get_names():
     print("Found: " + correct)
     print("Not Found: " + wrong)
     return correct_list
+
+get_names()
